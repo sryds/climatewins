@@ -13,3 +13,4 @@ Results from a fictional survey conducted in 16 of these locations about the wea
 
 Both data sets used can be found in data.
 Python scripts for cleaning, scaling and optimizing the data, as well as running the machine-learning algorithms, can be found in scripts.
+Visualizations and written findings can be found in documents.
