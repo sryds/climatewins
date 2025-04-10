@@ -11,6 +11,6 @@ Results from a fictional survey conducted in 16 of these locations about the wea
 
 ## Folders 
 
-Both data sets used can be found in data.
-Python scripts for cleaning, scaling and optimizing the data, as well as running the machine-learning algorithms, can be found in scripts.
-Visualizations and written findings can be found in documents.
+data: contains original ECAD climate data set and the Pleasant Weather survey data. Scaled weather data was too large to upload.
+scripts: contains python scripts used to clean, scale and optimize data, as well as to run the ML algorithms.
+documents: contains written observations and analyses along with accompanying visuals.
