@@ -12,5 +12,7 @@ Results from a fictional survey conducted in 16 of these locations about the wea
 ## Folders 
 
 data: contains original ECAD climate data set and the Pleasant Weather survey data. Scaled weather data was too large to upload.
+
 scripts: contains python scripts used to clean, scale and optimize data, as well as to run the ML algorithms.
-documents: contains written observations and analyses along with accompanying visuals.
+
+documents: contains written analyses and observations, as well as interim presentation.
